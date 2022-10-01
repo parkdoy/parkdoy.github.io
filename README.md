@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Unreal Engine
--0E1128?style=flat-square&logo=Unreal Engine
-&logoColor=#0E1128"/>
+<img src="https://img.shields.io/badge/C
+-0E1128?style=flat-square&logo=C
+&logoColor=0E1128"/>
 
 <a href="https://www.notion.so/YGL-VR7-faad8336b1a5433aaed532b1ce77c770"><img src="https://img.shields.io/badge/Notion
 -000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/YGL-VR7-faad8336b1a5433aaed532b1ce77c770"/></a>
