@@ -1,5 +1,6 @@
 <h2> 😎 저는 HTML로 코딩해요 😎 </h2>
 
+
 <h3 align="left">📜  I’m currently learning ... 📜</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -12,6 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>
   
 <h3 align="left">🔨 Tools 🔨</h3>
@@ -21,7 +23,7 @@
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 </p>
 
-<h3 align="left"> 😎 Me 😎 </h3>
+<h3 align="left"> 🙏 Follow Me 🙏 </h3>
 <p align="left">
 <a href="https://rectangular-grill-1e9.notion.site/YGL-VR7-faad8336b1a5433aaed532b1ce77c770"><img src="https://img.shields.io/badge/Notion%20Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:swagee7@naver.com"><img src="https://img.shields.io/badge/Contact%20to%20Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=swagee7@naver.com"/></a>
