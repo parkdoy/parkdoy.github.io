@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/C
 -0E1128?style=flat-square&logo=C
 &logoColor=0E1128"/>
