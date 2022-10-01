@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
-
 <img src="https://img.shields.io/badge/Unreal Engine
--0E1128?style=flat-square&logo=unrealengine&logoColor=0E1128"/>
+-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 <a href="https://www.notion.so/YGL-VR7-faad8336b1a5433aaed532b1ce77c770"><img src="https://img.shields.io/badge/Notion
 -000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/YGL-VR7-faad8336b1a5433aaed532b1ce77c770"/></a>
