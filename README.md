@@ -32,7 +32,4 @@
 <a href="mailto:swagee7@naver.com"><img src="https://img.shields.io/badge/Contact%20to%20Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=swagee7@naver.com"/></a>
 </p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=parkdoy&hide_border=true&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdoy&show_icons=true&langs_count=8&title_color=004386&hide_border=true&icon_color=004386&layout=compact"/>
-</div>
+
