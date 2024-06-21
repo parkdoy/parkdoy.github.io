@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20Pardoy%20's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdoy)</br>
 ![parkdoy's github stats](https://github-readme-stats.vercel.app/api?username=parkdoy&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosmos777)](https://solved.ac/cosmos777/)</br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosmos777)](https://solved.ac/cosmos777/)
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
 ## 🔨 내가 써본 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
