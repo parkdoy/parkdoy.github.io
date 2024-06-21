@@ -3,8 +3,6 @@
 ![parkdoy's github stats](https://github-readme-stats.vercel.app/api?username=parkdoy&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosmos777)](https://solved.ac/cosmos777/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
-
 ## 🔨 내가 써본 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
