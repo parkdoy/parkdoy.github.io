@@ -17,16 +17,20 @@
         <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </div align-items:flex-start;>
+    
+ ## ༼ つ ◕_◕ ༽つ <span> >> [Here Ref links] << </span> ╰(*°▽°*)╯
+
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+     <div>
+        <a href="https://youtube.com/@user-tu6ve4vh3y?si=BXbp_FvqlOi5ZK1T">
+            <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
+        </a>
+        <a href="https://rectangular-grill-1e9.notion.site/faad8336b1a5433aaed532b1ce77c770">
+            <img src="https://img.shields.io/badge/Notion-44C1C5?style=for-the-badge&logo=Notion&logoColor=white"> 
+        </a>
+        <a href="https://www.linkedin.com/in/%EB%8F%84%EC%98%81-%EB%B0%95-a46934248/">
+            <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
+        </a>
     </div>
-<strong><p> ༼ つ ◕_◕ ༽つ<strong>Here Ref links</strong> ╰(*°▽°*)╯ </p></strong>
-<div style="display:flex; flex-direction:row;">
-    <a href="https://youtube.com/@user-tu6ve4vh3y?si=BXbp_FvqlOi5ZK1T">
-        <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
-    </a>
-    <a href="https://rectangular-grill-1e9.notion.site/faad8336b1a5433aaed532b1ce77c770">
-        <img src="https://img.shields.io/badge/Notion-44C1C5?style=for-the-badge&logo=Notion&logoColor=white"> 
-    </a>
-    <a href="https://www.linkedin.com/in/%EB%8F%84%EC%98%81-%EB%B0%95-a46934248/">
-        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
-    </a>
-</div><br>
+</div>
