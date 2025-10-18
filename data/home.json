@@ -1,0 +1,12 @@
+{
+  "slides": [
+    {
+      "image": "/images/Myimg2.jpg",
+      "title": "안녕하세요.<br> 저는 박도영입니다."
+    },
+    {
+      "image": "/images/Myimg3.jpg",
+      "title": "제 사이트에 오신 것을 환영합니다.<br> 저의 프로젝트와 이력을 소개합니다."
+    }
+  ]
+}

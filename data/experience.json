@@ -1,0 +1,15 @@
+[
+    {
+      "role": "사원",
+      "company": "강원대학교산학협력단",
+      "period": "2023.05 ~ 2024.09",
+      "description": "K-디지털플랫폼 사업 운영 및 언리얼 엔진 기반 버추얼 스튜디오 구축 운영"
+    },
+    {
+      "role": "사원",
+      "company": "주식회사 소울엑스",
+      "period": "2022.10 ~ 2022.12",
+      "description": "뇌파를 이용한 장애인 오케스트라 연주회 프로젝트에서 프로그래밍 개발 업무를 수행하였고, Emotiv Epoc X와 Unreal Engine BCI Interface Plugin, Emotiv Pro, OpenVibe 등을 사용하여 뇌파 데이터를 처리하며, 가상공간에서의 캐릭터 작업과 맵 디자인을 진행하였습니다."
+    }
+
+]

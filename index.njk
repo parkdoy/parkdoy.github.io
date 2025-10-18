@@ -1,0 +1,116 @@
+{% include "head.njk" %}
+{% from "macros.njk" import project_card %}
+<body>
+  <div id="colorlib-page">
+    <div class="container-wrap">
+      {% include "header.njk" %}
+
+      <div id="colorlib-main">
+        {% set home = home or home %}
+        {% include "home.njk" %}
+
+        <!-- About -->
+        <section class="colorlib-about" data-section="about">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">About</span>
+                <h2 class="colorlib-heading">About Me</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="about-desc">
+                  <p>{{ about.summary }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Skills -->
+        <section class="colorlib-skills" data-section="skills">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">Skills</span>
+                <h2 class="colorlib-heading animate-box">My Skills</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 animate-box">
+                <p>
+                  {% for skill in skills %}
+                    <span class="label label-default">{{ skill }}</span>
+                  {% endfor %}
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Work (Projects) -->
+        <section class="colorlib-work" data-section="project">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">Project</span>
+                <h2 class="colorlib-heading animate-box">Project</h2>
+              </div>
+            </div>
+            <div class="row">
+              {% for project in project %}
+                {{ project_card(project) }}
+              {% endfor %}
+            </div>
+          </div>
+        </section>
+
+        <!-- Experience -->
+        <section class="colorlib-experience" data-section="experience">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">Experience</span>
+                <h2 class="colorlib-heading animate-box">Work Experience</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="timeline-centered">
+                  {% for item in experience %}
+                    {% include "experience-item.njk" %}
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Education -->
+        <section class="colorlib-education" data-section="education">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">Education</span>
+                <h2 class="colorlib-heading animate-box">Education</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                  {% for item in education %}
+                    {% include "education-item.njk" %}
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {% include "footer.njk" %}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

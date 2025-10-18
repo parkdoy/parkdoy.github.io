@@ -1,0 +1,50 @@
+[
+  {
+    "title": "함께찾기",
+    "link": "http://findtogether.cloud",
+    "image": "images/findtogether.png",
+    "description": "'함께찾기'는 시간과 위치를 기반으로 하는 실종자 제보 시스템입니다. 목격자가 실종자를 목격한 시간과 장소를 시스템에 입력하면, 해당 데이터가 지도 위에 시각화됩니다. 이 시스템을 통해 특정 지역의 제보 밀집도나 특정 시간대의 목격 빈도를 쉽게 파악하여, 실종자를 찾는 데 필요한 중요한 단서를 제공하는 것을 목표로 합니다.",
+    "pdf": "",
+    "animateEffect": "fadeInLeft"
+  },
+  {
+    "title": "3D-diary",
+    "link": "https://github.com/parkdoy/3D-diary",
+    "image": "images/3D-diary.gif",
+    "description": "감정 분석 기반 일기 서비스로 사용자가 작성한 기록을 시각적으로 관리하는 인터랙티브 웹 애플리케이션입니다.",
+    "pdf": "",
+    "animateEffect": "fadeInRight"
+  },
+  {
+    "title": "쉐도잉 랭스",
+    "link": "https://github.com/parkdoy/shadowing-langs",
+    "image": "images/shadowing.png",
+    "description": "유튜브 오디오북으로 쉐도잉을 연습을 할 수 있도록 돕는 프로그램입니다.",
+    "pdf": "",
+    "animateEffect": "fadeInLeft"
+  },
+  {
+    "title": "메랜메크로",
+    "link": "https://github.com/parkdoy/MapleLandMacro",
+    "image": "images/AI_res.png",
+    "description": "게임 화면을 인식하고 캐릭터 간의 거리 변수에 따라 자동으로 버프를 제공하는 프로그램 구현 과정입니다.",
+    "pdf": "",
+    "animateEffect": "fadeInRight"
+  },
+  {
+    "title": "뇌파를 이용한 장애인 오케스트라 연주회 프로젝트",
+    "link": "https://youtu.be/FSNvbCoABsg?si=TOoiE-HHL_s_CHnI",
+    "image": "images/OpenvibeBCI.png",
+    "description": "뇌파장비의 컨트롤 신호를 언리얼 엔진으로 UDP서버를 통해 OSC로 받아와 시각화하는 작업을 수행하였습니다.",
+    "pdf": "",
+    "animateEffect": "fadeInLeft"
+  },
+  {
+    "title": "텐서플로 활용 이미지 인식 기술 활용한 쓰레기 분리수거 프로그램",
+    "link": "https://youtu.be/plgO8qenGq0?si=9f5Ja9yi30aijbT1",
+    "image": "images/trash.png",
+    "description": "쓰레기 분류를 도와주는 프로그램으로 아이들이 분리수거를 잘 할 수 있도록 도와주는 프로그램입니다.",
+    "pdf": "",
+    "animateEffect": "fadeInRight"
+  }
+]
