@@ -19,7 +19,7 @@
     "title": "쉐도잉 랭스",
     "link": "https://github.com/parkdoy/shadowing-langs",
     "image": "images/shadowing.png",
-    "description": "유튜브 오디오북으로 쉐도잉을 연습을 할 수 있도록 돕는 프로그램입니다.",
+    "description": "유튜브 오디오북으로 쉐도잉을 연습을 할 수 있도록 돕는 프로그램입니다. 유튜브 영상을 활용하여 특정 구간을 반복하며 듣고 따라 말하는 '쉐도잉' 학습을 돕기 위해 만들었습니다.",
     "pdf": "",
     "animateEffect": "fadeInLeft"
   },
