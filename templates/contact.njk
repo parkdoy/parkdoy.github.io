@@ -1,0 +1,62 @@
+<section class="colorlib-contact" data-section="contact">
+  <div class="colorlib-narrow-content">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+        <span class="heading-meta">Contact</span>
+        <h2 class="colorlib-heading">Contact Me</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-5">
+        <div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div class="colorlib-icon">
+            <i class="email-icon">📧</i>
+          </div>
+          <div class="colorlib-text">
+            <p><a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+          </div>
+        </div>
+        {% if contact.portfolio %}
+        <div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div class="colorlib-icon">
+            <i class="location-icon">🗺️</i>
+          </div> 
+          <div class="colorlib-text">
+            <p>{{ contact.location }}</p>
+          </div>
+        </div>
+        {% endif %}
+        
+        {% if contact.portfolio %}
+        <div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div class="colorlib-icon">
+            <i class="phone-icon">📞</i>
+          </div>
+          <div class="colorlib-text">
+            <p><a href="tel://{{ contact.phone }}">{{ contact.phone }}</a></p>
+          </div>
+        </div>
+        {% endif %}
+
+        <div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div class="colorlib-icon">
+            <i class="github-icon">🔗</i>
+          </div>
+          <div class="colorlib-text">
+            <p><a href="{{ contact.github }}">{{ contact.github }}</a></p>
+          </div>
+        </div>
+
+        {% if contact.portfolio %}
+        <div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+          <div class="colorlib-icon">
+            <i class="portfolio-icon">🔗</i>
+          </div>
+          <div class="colorlib-text">
+            <p><a href="{{ contact.portfolio }}">{{ contact.portfolio }}</a></p>
+          </div>
+        </div>
+        {% endif %}
+    </div>
+  </div>
+</section>

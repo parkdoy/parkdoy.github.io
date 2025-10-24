@@ -1,9 +1,8 @@
 {
   "name": "박도영",
   "email": "swagee7@naver.com",
-  "phone": "+82 10-0000-0000",
-  "location": "춘천",
+  "location": "",
+  "phone": "",
   "title": "프론트엔드, Unreal Engine 개발자",
-  "github": "https://github.com/parkdoy",
-  "portfolio": "https://your-site.example.com"
+  "github": "https://github.com/parkdoy"
 }
