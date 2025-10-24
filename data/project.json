@@ -47,4 +47,13 @@
     "pdf": "",
     "animateEffect": "fadeInRight"
   }
+ {
+    "title": "포트나이트 형식의 빌딩액션 FPS프로젝트",
+    "link": "https://www.youtube.com/watch?v=jisDKIksNEI",
+    "image": "images/battleroyal.png",
+    "description": "부트캠프 협업 프로젝트로 만든 게임으로 제가 담당한 기능은 빌딩 시스템과 자기장 시스템, 채팅 기능을 담당했습니다. 케릭터에 빌딩 시스템 컴포넌트를 추가하고 총을 쏘는 ray trace 방식으로 장애물을 생성 위치를 결정하고 생성시킬 수 있습니다. 자기장 시스템은 서버에서 작동하면서 클라이언트의 위치에 따라 시각효과와 데미지를 적용시켰습니다.",
+    "pdf": "",
+    "animateEffect": "fadeInLeft"
+
+ } 
 ]
