@@ -87,6 +87,27 @@
           </div>
         </section>
 
+        <!-- Other Activities -->
+        <section class="colorlib-experience" data-section="other_activities">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box">
+                <span class="heading-meta">Other Activities</span>
+                <h2 class="colorlib-heading animate-box">Other Activities</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="timeline-centered">
+                  {% for item in other_activities %}
+                    {% include "other_activities-item.njk" %}
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <!-- Education -->
         <section class="colorlib-education" data-section="education">
           <div class="colorlib-narrow-content">
@@ -98,10 +119,30 @@
             </div>
             <div class="row">
               <div class="col-md-12">
-                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                <div class="panel-group" id="education-accordion" role="tablist" aria-multiselectable="true">
                   {% for item in education %}
                     {% include "education-item.njk" %}
                   {% endfor %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="colorlib-certificate" data-section="certificate">
+          <div class="colorlib-narrow-content">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                <span class="heading-meta">Certificates</span>
+                <h2 class="colorlib-heading animate-box">Certificates</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div class="panel-group" id="certificate-accordion" role="tablist" aria-multiselectable="true">
+                    {% for item in certificate.certificates %}
+                        {% include "certificate-item.njk" %}
+                    {% endfor %}
                 </div>
               </div>
             </div>

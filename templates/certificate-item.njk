@@ -1,0 +1,20 @@
+<div class="panel panel-default">
+  <div class="panel-heading" role="tab" id="certificate-heading{{ loop.index }}">
+    <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#certificate-accordion" href="#certificate-collapse{{ loop.index }}" aria-expanded="false" aria-controls="certificate-collapse{{ loop.index }}">{{ item.name }}
+      </a>
+    </h4>
+  </div>
+  <div id="certificate-collapse{{ loop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="certificate-heading{{ loop.index }}">
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-6">
+          <p><strong>발급처:</strong> {{ item.issuer }}</p>
+        </div>
+        <div class="col-md-6">
+          <p><strong>취득일자:</strong> {{ item.date }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

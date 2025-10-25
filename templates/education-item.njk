@@ -1,11 +1,11 @@
 <div class="panel panel-default">
-  <div class="panel-heading" role="tab" id="heading{{ loop.index }}">
+  <div class="panel-heading" role="tab" id="education-heading{{ loop.index }}">
     <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ loop.index }}" aria-expanded="false" aria-controls="collapse{{ loop.index }}">{{ item.school }}
+      <a data-toggle="collapse" data-parent="#education-accordion" href="#education-collapse{{ loop.index }}" aria-expanded="false" aria-controls="education-collapse{{ loop.index }}">{{ item.school }}
       </a>
     </h4>
   </div>
-  <div id="collapse{{ loop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{ loop.index }}">
+  <div id="education-collapse{{ loop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="education-heading{{ loop.index }}">
     <div class="panel-body">
       <div class="row">
         <div class="col-md-4">
